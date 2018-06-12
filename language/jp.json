@@ -1,0 +1,77 @@
+﻿{
+	"lang" : [
+		{
+			"playing" : "再生中",
+			"skip" : "SKIP"
+		},
+		{
+			"join":
+			{
+				"is_channal": "既にチャンネルにあります。",
+				"not_channal": "あなたはVoice Channalにありません。入ってください",
+				"success": "完了>_<："
+			},
+			"summon":
+			{
+					"no_target": "さんが音声チャネルに無し。入っハセム"
+			},
+			"play":
+			{
+					"RD_ERROR": "要求の処理中ERRORに発生！ㅜ。ㅜ",
+					"list_append": "キューの追加",
+					"is_live": "\nこの映像は、リアルタイムストリーミングです\n時々バッファに再生が遅れなることがあります!"
+			},
+			"rplay":
+			{
+				"pick_song": "選曲中です。お待ちください！",
+				"RD_ERROR": "要求の処理中ERRORに発生！ㅜ。ㅜ",
+				"list_append": "キューの追加",
+				"is_live": "\nこの映像は、リアルタイムストリーミングです\n時々バッファに再生が遅れなることがあります!"
+			},
+			"rpadd":
+			{
+				"add": " をランダムプレイに追加しました。"
+			},
+			"des":
+			{
+				"print": "映像/音楽の説明。"
+			},
+			"link":
+			{
+				"print_link": "映像Download LINK",
+				"is_live": "ストリーミング映像リンクの提供がメーカーによって制限されました。"
+			},
+			"thnail":
+			{
+				"print": "映像 thumnail"
+			},
+			"volume":
+			{
+				"set": "Volume 設定"
+			},
+			"skip":
+			{
+					"not_song": "Skipする歌はありません! ('.')",
+					"master_skip": "リクエスタ権限スキップリクエスト",
+					"not_vote": "投票せずに歌をスキップ。",
+					"vote": "スキップ投票依頼",
+					"already_skip": "すでにスキップしました。"
+			},
+			"playlist":
+			{
+				"no_playlist" : "Play中のものはありません。",
+				"playlist" : "<キュー Playlist>"
+			},
+			"ly":
+			{
+				"get_ly" : "歌詞の作成中",
+				"ly_form" :
+				{
+					"title" : "タイトル",
+					"artist" : "アーティスト",
+					"ly" : "--歌詞--"
+				}
+			}
+		}
+	]
+}
